@@ -8,6 +8,7 @@ _This living document serves as a community and consensus-driven glossary of ter
 
 ### Index ###
 
+1.  [AI (Artificial Intelligence)](#AI-Artificial-Intelligence)
 1.  [Embedding](#Embedding)
 2.  [Knowledge](#Knowledge)
 3.  [Knowledge Graph (KG)](#Knowledge-Graph-KG)
@@ -22,6 +23,13 @@ _This living document serves as a community and consensus-driven glossary of ter
 12. [Reasoning](#Reasoning)
 13. [Representation Learning](#Representation-Learning)
 14. [Semantic Web](#Semantic-Web)
+
+## AI (Artificial Intelligence)
+In contrast to natural intelligence, which is the nature of human beings, artificial intelligence is the study of allowing machines to have a similar level of intelligence as humans, such as 'learning' and 'problem solving'. In modern computer science, a main stream of AI is to mimic the neural structure of human brains into designing the architecture of computational models, which are further trained using a large number of data. This type of approaches is commonly named as machine learning.  Techniques developed from artificial intelligence have been heavily used in applications such as image classification and segmentation, language translation, and self-driving cars.
+
+\[**Used by:** A-6677\]
+
+[Back to Index](#Index)
 
 
 ## Embedding
